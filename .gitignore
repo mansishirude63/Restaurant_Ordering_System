@@ -12,3 +12,7 @@ restaurant_frontend/dist/
 
 # VS Code
 .vscode/
+
+# OS
+.DS_Store
+Thumbs.db
