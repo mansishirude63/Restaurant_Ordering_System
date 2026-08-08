@@ -190,6 +190,9 @@ function MenuList() {
       {renderCategory("Starters", starters)}
 
       <br />
+      <br/>
+      <br/>
+
       <hr />
       <br />
 
@@ -197,6 +200,9 @@ function MenuList() {
       {renderCategory("Main Course", mainCourses)}
 
       <br />
+      <br/>
+      <br/>
+
       <hr />
       <br />
 
@@ -204,6 +210,9 @@ function MenuList() {
       {renderCategory("Desserts", desserts)}
 
       <br />
+      <br/>
+      <br/>
+
       <hr />
       <br />
 

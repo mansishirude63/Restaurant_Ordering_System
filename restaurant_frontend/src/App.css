@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -33,11 +34,11 @@
 }
 
 .logo {
-  font-size: 30px;
+ font-family: 'Playfair Display', serif;
+  font-size: 32px;
   font-weight: 700;
-  color: white;
-  white-space: nowrap;
-  cursor: pointer;
+  letter-spacing: 1px;
+  color: #ffff;
 }
 
 .logo span {
@@ -59,10 +60,13 @@
 }
 
 .nav-links a {
-  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
   text-decoration: none;
-  font-size: 17px;
-  font-weight: 500;
+  color: #ffff;
   transition: 0.3s;
 }
 

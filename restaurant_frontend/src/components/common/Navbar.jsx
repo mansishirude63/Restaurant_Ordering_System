@@ -89,7 +89,7 @@ function Navbar() {
 
       <div className="logo">
 
-        🍽️ Restaurant
+        🍽️ Spice & Spoon 🌶️
 
       </div>
 
